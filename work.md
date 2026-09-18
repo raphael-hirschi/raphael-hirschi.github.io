@@ -31,7 +31,13 @@ My research focuses on various aspects related to stars and their evolution.
 
 ---
 
-# Teaching & Outreach
+# Video Recordings
+
+https://www.youtube.com/results?search_query=raphael+hirschi
+
+---
+
+# Teaching
 
 I have been teaching several modules at Keele:
 
