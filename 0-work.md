@@ -4,29 +4,30 @@ nav: true
 ---
 
 # Work
-Absolutely, Raphael — here is a **clean, GitHub‑ready Markdown file** with a tidy structure, consistent headings, and no leftover HTML artefacts. It’s formatted exactly the way GitHub renders Markdown best: clear sections, bullet lists, and link‑friendly formatting.
 
-You can drop this straight into a repository as `README.md` or as a page in a docs site.
 
 ---
 
 # Projects Websites
 
-My research focuses on various aspects related to stars and their evolution. More details about my group are available from this website:
-
-**[Stellar Hydrodynamics, Evolution and Nucleosynthesis (SHEN)](http://www.astro.keele.ac.uk/shen)** — stellar evolution group website at Keele.
+My research focuses on various aspects related to stars and their evolution. 
 
 ### Current Projects
+- **[GENEC](https://github.com/GESEG/GENEC)** — open‑source stellar evolution code that I started working on during my PhD thesis   
+- **[PROMPI-GPU](https://gitlab.com/prompi/prompi)** — open‑source GPU-accelerated 3D stellar hydrodynamic code   
 
-- **[Chemical Elements as Tracers of the Evolution of the Cosmos (ChETEC)](http://www.cost.eu/COST_Actions/ca/CA16117)** — COST Action  
-- **[NuGrid](http://forum.astro.keele.ac.uk:8080/nugrid)** — tools for large‑scale post‑processing nucleosynthesis simulations  
+- **[CeNAM]((https://www.cenamweb.org/))** — Center for Nuclear Astrophysics across Messengers (CeNAM)
+- **[NuGrid](https://nugrid.github.io/)** — tools for large‑scale post‑processing nucleosynthesis simulations  
 - **[BRIDGCE UK Network](http://www.bridgce.ac.uk)** — UK‑wide network for Galactic Chemical Evolution
+
 
 ### Other Ongoing or Completed Projects
 
-- **[MESA](http://mesa.sourceforge.net/)** — open‑source stellar evolution code  
+- **[MESA](http://mesa.sourceforge.net/)** — open‑source stellar evolution code
+- 
+- **[Chemical Elements as Tracers of the Evolution of the Cosmos (ChETEC)](http://www.cost.eu/COST_Actions/ca/CA16117)** — COST Action
 - **[Stellar HYdrodynamics, Nucleosynthesis and Evolution (SHYNE)](http://www.astro.keele.ac.uk/shyne)** — ERC‑funded project  
-- **[Massive Rotating Stars](http://forum.astro.keele.ac.uk:8080/mrs/gevol)** — evolutionary tracks, pre‑SN models, yields, papers (models from 2000–2010)
+
 
 ---
 
@@ -95,10 +96,3 @@ Movies showing the evolution of stellar structure and chemical abundances can be
 
 ---
 
-If you want, I can also produce:
-
-- a **more modern GitHub‑style layout** (cards, badges, icons)  
-- a **multi‑page docs structure** (e.g., `/projects`, `/teaching`, `/publications`)  
-- a **Hugo / Jekyll / MkDocs**‑ready version for a static website  
-
-Just tell me the style you want and I’ll shape it accordingly.
