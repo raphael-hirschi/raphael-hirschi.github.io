@@ -1,6 +1,6 @@
 ---
 title: Personal
-nav: ture
+nav: true
 ---
 
 # Interests & Useful Links
