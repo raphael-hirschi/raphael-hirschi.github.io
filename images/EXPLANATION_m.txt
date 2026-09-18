@@ -1,0 +1,62 @@
+obswww.unige.ch/~hirschi/animation
+Animations explanations:
+
+#####filenames#####
+file: "mxxxrotyyy....gif"
+xxx: mass [Mo]
+yyy: initial rotational velocity [km/s]
+...: extra information about either file size or burning stages
+
+#####TOP-LEFT#####
+MvsR: Mass vs Radius
+
+Radius: (from center until side of image) 
+- left R=10^14 cm
+- middle R=10^12 cm
+- right R=10^10 cm
+
+Mass: (from center to surface; % of total mass)
+- white Mr< 1%
+- dark blue < 10%
+- middle blue < 20%
+- light blue < 30%
+- dark green < 40%
+- middle green < 50%
+- light green < 60%
+- dark red < 70%
+- middle red < 80%
+- light red < 90%
+- white < 100%
+- black :outside
+
+#####TOP-RIGHT#####
+HR: Hertzsprung-Russell diagram
+- x-axis log10(Teff) [K]
+- y-axis log10(L/Lo)
+- nb=log10(tfinal-tevol) (March 25th 2003)
+
+#####BOTTOM-LEFT#####
+YvsR: Abundances vs Radius
+
+Radius: same as above
+
+Abundances: (from surface to center)
+- red = Hydrogen
+- green = Helium
+- red = Carbon
+- green = Neon
+- blue = Oxygen
+- white/red = Silicium
+- green = Nickel
+
+Notes:
+- darker tone means less abundant
+- change of tone every 0.1 in Xi (sum_i(Xi)=1)
+- next abundance color not shown until Xi<0.01 
+
+#####BOTTOM-RIGHT#####
+tcroc: central temperature (Tc) vs central density (rhoc)
+- x-axis log10(rhoc) [g/cm^3]
+- y-axis log10(Tc) [K]
+
+

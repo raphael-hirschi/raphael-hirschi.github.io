@@ -1,0 +1,18 @@
+obswww.unige.ch/~hirschi/animation
+Animations explanations:
+
+#####filenames#####
+file: "ABUNPxxz20Sy.gif"
+xx : mass [solar mass]
+y  : initial rotational velocity [100 km/s]
+
+z20: solar metallicity models
+
+#####graph#####
+Abundances of elements [log_10(mass fraction)] as a function of
+lagrangian mass coordinate [solar mass]
+
+* Ti44 abundance has been multiplied by 1000 for display purposes.
+
+#####BOTTOM-LEFT#####
+- Log(Tleft)=log10(tfinal-tevol)
