@@ -2,7 +2,7 @@
 title: Raphael Hirschi
 ---
 
-# <p style="text-align:center;"> Welcome to my homepage! </p>
+# Welcome to my homepage!
 
 {% include figure.html img="RH_DSI.jpg" alt="Raphael Hirschi" caption="" width="25%" %}
 
