@@ -1,3 +1,8 @@
+---
+title: Personal
+nav: ture
+---
+
 # Interests & Useful Links
 
 On this page you can find some of my interests outside of science and miscellaneous links that I find useful.
