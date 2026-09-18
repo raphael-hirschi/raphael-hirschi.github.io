@@ -15,9 +15,9 @@ title: Raphael Hirschi
 <div class="toc" markdown="1">
 ## Contents:
 
-{% for lesson in site.pages %}
-{% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | relative_url }}){% endif %}
-{% endfor %}
+#{% for lesson in site.pages %}
+#{% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | relative_url }}){% endif %}
+#{% endfor %}
 </div>
 
  
