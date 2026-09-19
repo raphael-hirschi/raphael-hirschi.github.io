@@ -85,12 +85,3 @@ Online Swiss and international newspapers:
 
 
 
----
-
-If you want, I can also:
-
-- merge this with your previous Markdown pages  
-- create a **multi‑page GitHub Pages site** (Jekyll / MkDocs / Hugo)  
-- add icons, badges, or a more modern layout  
-
-Just tell me the style you want.
