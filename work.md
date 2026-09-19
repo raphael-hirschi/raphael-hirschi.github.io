@@ -24,7 +24,8 @@ My research focuses on various aspects related to stars and their evolution.
 ### Other Ongoing or Completed Projects
 
 - **[MESA](http://mesa.sourceforge.net/)** — open‑source stellar evolution code
-- 
+
+
 - **[Chemical Elements as Tracers of the Evolution of the Cosmos (ChETEC)](http://www.cost.eu/COST_Actions/ca/CA16117)** — COST Action
 - **[Stellar HYdrodynamics, Nucleosynthesis and Evolution (SHYNE)](http://www.astro.keele.ac.uk/shyne)** — ERC‑funded project  
 
@@ -88,7 +89,6 @@ The ADS search result below is the best way to track my Astrophysics publication
 
 You can also find my publications on 
 **[Google Scholar](https://scholar.google.com/citations?user=hw32Dg8AAAAJ&hl=en)** or
-
 **[ORCID0000‑0001‑8764‑6522](https://orcid.org/0000-0001-8764-6522)** .
 
 
