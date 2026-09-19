@@ -173,12 +173,6 @@ IAU Working Group on Massive Stars (Division IV)
 
 ---
 
-## **Invited Talks & Lectures**
-
-Here is your full invited‑talks section translated into clean, structured **Markdown**, with all details preserved and formatted for readability.
-
----
-
 ## **Invited Talks & Lectures (Selected)**
 
 I am regularly invited to give talks at conferences and institutions (over 60 total, including seminars and 7 invited review/keynote talks). A selection is listed below:
@@ -213,43 +207,43 @@ My career (with first publication in 2003) publication total is 250+ (32 as firs
 ---
 
 ## **Selected Key Publications**
-`The fate of rotating massive stars across cosmic times’, Hirschi, R. ; Goodman, K.; Meynet, G. ; Maeder, A.; Ekström, S. ; Eggenberger, P. ; Georgy, C.; Sibony, Y. ; Yusof, N.; Martinet, S. ; Varma, Vishnu; Nomoto, K., MNRAS, 2025, 543, 2796 (accepted) (7 citation)
+`The fate of rotating massive stars across cosmic times`, Hirschi, R. ; Goodman, K.; Meynet, G. ; Maeder, A.; Ekström, S. ; Eggenberger, P. ; Georgy, C.; Sibony, Y. ; Yusof, N.; Martinet, S. ; Varma, Vishnu; Nomoto, K., MNRAS, 2025, 543, 2796 (accepted) (7 citation)
 
-`Shell mergers in the late stages of massive star evolution: new insight from 3D hydrodynamic simulations’, Rizzuti, F.; Hirschi, R.; Varma, V.; Arnett, W. D.; Georgy, C.; Meakin, C.; Mocák, M.; Murphy, A. StJ; Rauscher, T., MNRAS, 2024, 533, 687 (14 citations)
+`Shell mergers in the late stages of massive star evolution: new insight from 3D hydrodynamic simulations`, Rizzuti, F.; Hirschi, R.; Varma, V.; Arnett, W. D.; Georgy, C.; Meakin, C.; Mocák, M.; Murphy, A. StJ; Rauscher, T., MNRAS, 2024, 533, 687 (14 citations)
 
-`Experimental Determination of α Widths of 21Ne Levels in the Region of Astrophysical Interest: New 17O +α Reaction Rates and Impact on the Weak s Process’, Hammache, F.; Adsley, P.; Lamia, L.; Harrouz, D. S.; de Séréville, N.; Bastin, B.; Choplin, A.; Faestermann, T.; Fougères, C.; Hertenberger, R.; Hirschi, R.; La Cognata, M.; Meyer, A.; Palmerini, S.; Pizzone, R. G.; de Oliveira Santos, F.; Romano, S.; Tumino, A.; Wirth, H. -F., PhRvL, 2024, 132, 2701 (1 citation)
+`Experimental Determination of α Widths of 21Ne Levels in the Region of Astrophysical Interest: New 17O +α Reaction Rates and Impact on the Weak s Process`, Hammache, F.; Adsley, P.; Lamia, L.; Harrouz, D. S.; de Séréville, N.; Bastin, B.; Choplin, A.; Faestermann, T.; Fougères, C.; Hertenberger, R.; Hirschi, R.; La Cognata, M.; Meyer, A.; Palmerini, S.; Pizzone, R. G.; de Oliveira Santos, F.; Romano, S.; Tumino, A.; Wirth, H. -F., PhRvL, 2024, 132, 2701 (1 citation)
 
-`3D stellar evolution: hydrodynamic simulations of a complete burning phase in a massive star’, Rizzuti, F., Hirschi, R., Arnett, W. D., Georgy, C., Meakin, C., Murphy, A. StJ, Rauscher, T., Varma, V., MNRAS, 2023, 523, 2317, arXiv.2305.13912 (17 citations)
+`3D stellar evolution: hydrodynamic simulations of a complete burning phase in a massive star`, Rizzuti, F., Hirschi, R., Arnett, W. D., Georgy, C., Meakin, C., Murphy, A. StJ, Rauscher, T., Varma, V., MNRAS, 2023, 523, 2317, arXiv.2305.13912 (17 citations)
 
-`Convective core entrainment in 1D main-sequence stellar models’, Scott, L. J. A.; Hirschi, R.; Georgy, C.; Arnett, W. D.; Meakin, C.; Kaiser, E. A.; Ekström, S.; Yusof, N, MNRAS, 2021, 503, 4208 (50 citations)
+`Convective core entrainment in 1D main-sequence stellar models`, Scott, L. J. A.; Hirschi, R.; Georgy, C.; Arnett, W. D.; Meakin, C.; Kaiser, E. A.; Ekström, S.; Yusof, N, MNRAS, 2021, 503, 4208 (50 citations)
 
-`Evolution of Wolf-Rayet stars as black hole progenitors’, Higgins, E. R.; Sander, A. A. C.; Vink, J. S.; Hirschi, R, MNRAS, 2021, 505, 4874 (45 citations)
+`Evolution of Wolf-Rayet stars as black hole progenitors`, Higgins, E. R.; Sander, A. A. C.; Vink, J. S.; Hirschi, R, MNRAS, 2021, 505, 4874 (45 citations)
 
-`Evolutionary roads leading to low effective spins, high black hole masses, and O1/O2 rates for LIGO/Virgo binary black holes’, Belczynski, K., Klencki, J., Fields, C. E., Olejak, A., Berti, E., Meynet, G., Fryer, C. L., Holz, D. E., O'Shaughnessy, R., Brown, D. A., Bulik, T., Leung, S. C., Nomoto, K., Madau, P., Hirschi, R., Kaiser, E., Jones, S., Mondal, S., Chruslinska, M., Drozda, P., Gerosa, D., Doctor, Z., Giersz, M., Ekstrom, S., Georgy, C., Askar, A., Baibhav, V., Wysocki, D., Natan, T., Farr, W. M., Wiktorowicz, G., Coleman Miller, M., Farr, B., Lasota, J. -P., A&A, 2020, 636, 104 (438 citations)
+`Evolutionary roads leading to low effective spins, high black hole masses, and O1/O2 rates for LIGO/Virgo binary black holes`, Belczynski, K., Klencki, J., Fields, C. E., Olejak, A., Berti, E., Meynet, G., Fryer, C. L., Holz, D. E., O'Shaughnessy, R., Brown, D. A., Bulik, T., Leung, S. C., Nomoto, K., Madau, P., Hirschi, R., Kaiser, E., Jones, S., Mondal, S., Chruslinska, M., Drozda, P., Gerosa, D., Doctor, Z., Giersz, M., Ekstrom, S., Georgy, C., Askar, A., Baibhav, V., Wysocki, D., Natan, T., Farr, W. M., Wiktorowicz, G., Coleman Miller, M., Farr, B., Lasota, J. -P., A&A, 2020, 636, 104 (438 citations)
 
-`3D Hydrodynamic Simulations of Carbon Burning in Massive Stars’, Cristini, A., Meakin, C., Hirschi, R., Arnett, D., Georgy, C., Viallet, M., MNRAS, 2017, 471, 279, arXiv:1610.05173 (76 citations)
+`3D Hydrodynamic Simulations of Carbon Burning in Massive Stars`, Cristini, A., Meakin, C., Hirschi, R., Arnett, D., Georgy, C., Viallet, M., MNRAS, 2017, 471, 279, arXiv:1610.05173 (76 citations)
 
-`Uncertainties in s-process nucleosynthesis in massive stars determined by Monte Carlo Variations’, Nishimura, N., Hirschi, R., Rauscher, T., Murphy, A. St. J., Cescutti, G., MNRAS, 2017, Vol. 469, Issue 2, p.1752-1767 (45 citations)
+`Uncertainties in s-process nucleosynthesis in massive stars determined by Monte Carlo Variations`, Nishimura, N., Hirschi, R., Rauscher, T., Murphy, A. St. J., Cescutti, G., MNRAS, 2017, Vol. 469, Issue 2, p.1752-1767 (45 citations)
 
-`s-process production in rotating massive stars at solar and low metallicities’, Frischknecht, U., Hirschi, R., Pignatari, M., Maeder, A., Meynet, G., Chiappini, C., Thielemann, F-K., Rauscher, T., Georgy, C., Ekström, S., MNRAS, 2016, 456 (2): 1803-1825 (208 citations)
+`s-process production in rotating massive stars at solar and low metallicities`, Frischknecht, U., Hirschi, R., Pignatari, M., Maeder, A., Meynet, G., Chiappini, C., Thielemann, F-K., Rauscher, T., Georgy, C., Ekström, S., MNRAS, 2016, 456 (2): 1803-1825 (208 citations)
 
-`NuGrid Stellar Data Set. I.Stellar Yields from H to Bi for Stars with Metallicities Z = 0.02 and Z = 0.01’, Pignatari, M., Herwig, F., Hirschi, R., Bennett, M., Rockefeller, G., Fryer, C., Timmes, F. X., Ritter, C., Heger, A., Jones, S., Battino, U., Dotter, A., Trappitsch, R., Diehl, S., Frischknecht, U., Hungerford, A., Magkotsios, G., Travaglio, C., Young, P., ApJS, 2016, Vol. 225, Issue 2, article id. 24, 54 pp. (235 citations)
+`NuGrid Stellar Data Set. I.Stellar Yields from H to Bi for Stars with Metallicities Z = 0.02 and Z = 0.01`, Pignatari, M., Herwig, F., Hirschi, R., Bennett, M., Rockefeller, G., Fryer, C., Timmes, F. X., Ritter, C., Heger, A., Jones, S., Battino, U., Dotter, A., Trappitsch, R., Diehl, S., Frischknecht, U., Hungerford, A., Magkotsios, G., Travaglio, C., Young, P., ApJS, 2016, Vol. 225, Issue 2, article id. 24, 54 pp. (235 citations)
 
-`Advanced Burning Stages and Fate of 8-10 Solar Mass Stars’, Jones, S., Hirschi, R., Nomoto, K., Fischer, T., Timmes, F. X., Herwig, F., Paxton, B., Toki, H., Suzuki, T., Martínez-Pinedo, G., Lam, Y. H., Bertolli, M. G., ApJ, 2013, 772, 150 (175 citations)
+`Advanced Burning Stages and Fate of 8-10 Solar Mass Stars`, Jones, S., Hirschi, R., Nomoto, K., Fischer, T., Timmes, F. X., Herwig, F., Paxton, B., Toki, H., Suzuki, T., Martínez-Pinedo, G., Lam, Y. H., Bertolli, M. G., ApJ, 2013, 772, 150 (175 citations)
 
-`Grids of stellar models with rotation. I. Models from 0.8 to 120 M⊙ at solar metallicity (Z = 0.014)’, Ekström, S., Georgy, C., Eggenberger, P., Meynet, G., Mowlavi, N., Wyttenbach, A., Granada, A., Decressin, T., Hirschi, R., Frischknecht, U., Charbonnel, C., Maeder, A., A&A, 2012, 537, 146 (1641 citations)
+`Grids of stellar models with rotation. I. Models from 0.8 to 120 M⊙ at solar metallicity (Z = 0.014)`, Ekström, S., Georgy, C., Eggenberger, P., Meynet, G., Mowlavi, N., Wyttenbach, A., Granada, A., Decressin, T., Hirschi, R., Frischknecht, U., Charbonnel, C., Maeder, A., A&A, 2012, 537, 146 (1641 citations)
 
-`Imprints of fast-rotating massive stars in the Galactic Bulge’, Chiappini, C., Frischknecht, U., Meynet, G., Hirschi, R., Barbuy, B., Pignatari, M., Decressin, T., Maeder, A., Nature, 2011, 472, 454 (113 citations)
+`Imprints of fast-rotating massive stars in the Galactic Bulge`, Chiappini, C., Frischknecht, U., Meynet, G., Hirschi, R., Barbuy, B., Pignatari, M., Decressin, T., Maeder, A., Nature, 2011, 472, 454 (113 citations)
 
-`The R136 star cluster hosts several stars whose individual masses greatly exceed the accepted 150Msolar stellar mass limit’, Crowther, P. A., Schnurr, O., Hirschi, R., Yusof, Norhasliza, Parker, R. J., Goodwin, S. P., Kassim, H., Monthly Notices of the Royal Astronomical Society, 2010, 408, 731 (525 cits.)
+`The R136 star cluster hosts several stars whose individual masses greatly exceed the accepted 150 Msolar stellar mass limit`, Crowther, P. A., Schnurr, O., Hirschi, R., Yusof, Norhasliza, Parker, R. J., Goodwin, S. P., Kassim, H., Monthly Notices of the Royal Astronomical Society, 2010, 408, 731 (525 cits.)
 
-`Very low-metallicity massive stars:. Pre-SN evolution models and primary nitrogen production’,
+`Very low-metallicity massive stars:. Pre-SN evolution models and primary nitrogen production`,
 Hirschi, R., Astronomy and Astrophysics, 2007, 461, 571 (255 citations)	
 
-`Stellar evolution with rotation. XIII. Predicted GRB rates at various Z’, 
+`Stellar evolution with rotation. XIII. Predicted GRB rates at various Z`, 
 Hirschi, R., Meynet, G., Maeder, A., Astronomy and Astrophysics, 2005, 443,581 (177 citations)
 
-`Stellar evolution with rotation. XII. Pre-supernova models’, 
+`Stellar evolution with rotation. XII. Pre-supernova models`, 
 Hirschi, R., Meynet, G., Maeder, A., Astronomy and Astrophysics, 2004, 425, 649 (283 citations)
 
 
@@ -260,18 +254,18 @@ Hirschi, R., Meynet, G., Maeder, A., Astronomy and Astrophysics, 2004, 425, 649 
 
 All links preserved:
 
-1. `Slow Neutron-Capture Process in Evolved Stars’, R. Hirschi, chapter in: Tanihata, I., Toki, H., Kajino, T. (eds) Handbook of Nuclear Physics, 2023, 35 pages. Springer, Singapore. https://doi.org/10.1007/978-981-15-8818-1_118-1
+1. `Slow Neutron-Capture Process in Evolved Stars`, R. Hirschi, chapter in: Tanihata, I., Toki, H., Kajino, T. (eds) Handbook of Nuclear Physics, 2023, 35 pages. Springer, Singapore. https://doi.org/10.1007/978-981-15-8818-1_118-1
 
-2. `Pre-supernova Evolution and Nucleosynthesis in Massive Stars and Their Stellar Wind Contribution’, R. Hirschi, chapter in `Handbook of Supernovae’, 2017, Springer International Publishing, ISBN 978-3-319-20794-0, 51 pages, https://doi.org/10.1007/978-3-319-20794-0_82-1
+2. `Pre-supernova Evolution and Nucleosynthesis in Massive Stars and Their Stellar Wind Contribution`, R. Hirschi, chapter in `Handbook of Supernovae’, 2017, Springer International Publishing, ISBN 978-3-319-20794-0, 51 pages, https://doi.org/10.1007/978-3-319-20794-0_82-1
 
-3. `Very Massive and Supermassive Stars: Evolution and Fate’, R. Hirschi, chapter in `Handbook of Supernovae’, 2017, Springer International Publishing, ISBN 978-3-319-20794-0, 34 pages, https://doi.org/10.1007/978-3-319-20794-0_120-1
+3. `Very Massive and Supermassive Stars: Evolution and Fate`, R. Hirschi, chapter in `Handbook of Supernovae’, 2017, Springer International Publishing, ISBN 978-3-319-20794-0, 34 pages, https://doi.org/10.1007/978-3-319-20794-0_120-1
 
-4. `Evolution and Nucleosynthesis of Very Massive Stars’, R. Hirschi,  chapter in `Very Massive Stars in the Local Universe’, Astrophysics and Space Science Library, Volume 412. ISBN 978-3-319-09595-0. Springer International Publishing Switzerland, 2015, p. 157
+4. `Evolution and Nucleosynthesis of Very Massive Stars`, R. Hirschi,  chapter in `Very Massive Stars in the Local Universe’, Astrophysics and Space Science Library, Volume 412. ISBN 978-3-319-09595-0. Springer International Publishing Switzerland, 2015, p. 157
 
-5. `Massive star evolution’ section of chapter `Massive Stars and Their Supernovae’,
+5. `Massive star evolution` section of chapter `Massive Stars and Their Supernovae’,
 Thielemann, F.-K., Hirschi, R., Liebendörfer, M., Diehl, R.	
 chapter in book `Astronomy with Radioactivities’, Edited by Roland Diehl, Dieter H. Hartmann, and Nikos Prantzos. Lecture Notes in Physics, Vol. 812. Berlin: Springer, 2011, p. 153-232 ISBN: 978-3-642-12697-05
 
-6. Section entitled: `Contemporary Calculations of Evolutionary Tracks’ (massive star evolution chapter) in Planets, Stars and Stellar Systems Vol. 4, by Oswalt, Terry D., Barstow, Martin A., ISBN 978-94-007-5614-4. Springer Science+Business Media Dordrecht, 2013, p. 447 
+6. Section entitled: `Contemporary Calculations of Evolutionary Tracks` (massive star evolution chapter) in Planets, Stars and Stellar Systems Vol. 4, by Oswalt, Terry D., Barstow, Martin A., ISBN 978-94-007-5614-4. Springer Science+Business Media Dordrecht, 2013, p. 447 
 
 ---
