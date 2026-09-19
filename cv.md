@@ -36,11 +36,11 @@ Made in Switzerland (CH)
 | **Sept 2018–Sept 2022** | Director of Research, School of Chemical & Physical Sciences, Keele University |
 | **Mar 2013–Dec 2017** | Reader in Astrophysics, Keele University |
 | **Nov 2010–Feb 2013** | Lecturer in Astrophysics, Keele University |
-| **Since 2008** | Visiting Scientist, Kavli IPMU (Japan), collaborations with Prof K. Nomoto |
-| **May 2007–Oct 2010** | RCUK Academic Fellow, Keele University |
-| **2004–2007** | Postdoctoral Researcher, University of Basel (CH), working with Prof F.-K. Thielemann |
-| **1999–2000** | Industrial Trainee, Mitsubishi R&D Center, Osaka (Japan) |
-| **Summer 1998** | Industrial Project, HCT SA, Cheseaux (CH) |
+| **Since 2008** | Visiting Scientist, [Kavli IPMU](http://www.ipmu.jp/) (Japan), collaborations with Prof K. Nomoto. Working on the evolution and fate of massive and very massive stars. |
+| **May 2007–Oct 2010** | RCUK Academic Fellow, Keele University. I gained key insights into 3D hydrodynamics simulations of convective boundary mixing and the evolution of AGB stars by working with Falk Herwig (now Prof at Uni Victoria, Canada)  |
+| **2004–2007** | Postdoctoral Researcher, University of Basel (CH), working with Prof F.-K. Thielemann. I gained key insight into nuclear physics and supernovae explosions by working in the group of Prof F.-K. Thielemann (APS Bethe Prize, 2008), expert in nuclear physics and supernova simulations and in particular creator of the world leading `REACLIB’ reaction rate database. |
+| **1999–2000** | Industrial Trainee, Mitsubishi R&D Center, Osaka (Japan). I gained  insight into different culture and approaches used in the industry (vs academia). |
+| **Summer 1998** | Industrial Project on *Wire saw technology*, HCT SA, Cheseaux (CH) |
 
 ---
 
@@ -48,13 +48,13 @@ Made in Switzerland (CH)
 
 | Collaboration | Role |
 |---------------|------|
-| **CENAM** | Steering committee member (DOE Nuclear Astrophysics programme) |
-| **ChETEC‑INFRA** | Keele representative (EU Horizon 2020, 32 partners) |
-| **IReNA** | Steering committee member (NSF AccelNet Network of Networks) |
-| **ChETEC** | Chair of COST Action (200+ scientists, 30 countries) |
+| **[CENAM](https://www.cenamweb.org/)** | Steering committee member (2025-2027, DOE Nuclear Astrophysics programme. Grant value around £200k) |
+| **[ChETEC‑INFRA](https://www.chetec-infra.eu/)** | Keele representative (2021-2025, EU Horizon 2020, 32 partners) |
+| **[IReNA](https://www.irenaweb.org/)** | Steering committee member (NSF AccelNet Network of Networks) |
+| **ChETEC** | Chair of COST Action (2017-2021, 200+ scientists, 30 countries) |
 | **SHYNE** | PI of ERC Starting Grant (2012–2017) |
-| **NuGrid** | Co‑founder and PI (20+ institutions worldwide) |
-| **BRIDGCE** | Co‑founder, past chair, steering committee member |
+| **[NuGrid](https://nugrid.github.io/)** | Co‑founder and PI (20+ institutions worldwide) |
+| **[BRIDGCE](http://www.astro.keele.ac.uk/bridgce)** | Co‑founder, inaugural chair, steering committee member (2013-present) |
 
 ---
 
