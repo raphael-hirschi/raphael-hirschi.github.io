@@ -10,7 +10,7 @@ nav: true
 
 # **Prof. Raphael Hirschi**
 
-Born in Switzerland (CH)
+Made in Switzerland (CH)
 
 ---
 
@@ -18,8 +18,8 @@ Born in Switzerland (CH)
 
 | Years | Details |
 |-------|---------|
-| **2000–2004** | **PhD** — *Massive rotating stars: the road to supernova explosion*, University of Geneva Observatory (CH). I gained insight into stellar evolution and modelling of massive rotating stars until the pre‑supernova stage, supervised by Profs Maeder and Meynet. |
-| **1998–1999** | **Masters** — *Oxygen burning in massive stars*, EPFL, Lausanne (CH). |
+| **2000–2004** | **PhD** — *[Massive rotating stars: the road to supernova explosion](https://archive-ouverte.unige.ch/unige:287)*, [University of Geneva Observatory](https://www.unige.ch/sciences/astro/en) (CH). I gained insight into stellar evolution and modelling of massive rotating stars until the pre‑supernova stage, supervised by Profs Maeder and Meynet. |
+| **1998–1999** | **Masters** — *Oxygen burning in massive stars*, [EPFL](https://www.epfl.ch/), Lausanne (CH). |
 | **1994–1998** | **Diplôme d’Ingénieur Physicien** (4‑year bachelor), EPFL, Lausanne (CH). |
 | **1996–1997** | **Erasmus Exchange Student**, University of Nottingham (UK). I discovered a new educational system and gained insight into the synergy between UK & CH educational approaches. |
 | **1991–1994** | **Maturité Fédérale**, Gymnase du Bugnon, Lausanne (CH). |
@@ -30,9 +30,9 @@ Born in Switzerland (CH)
 
 | Years | Role |
 |-------|------|
-| **Since Sept 2022** | Inaugural Director, Digital Society Institute, Keele University |
+| **Since Sept 2022** | Inaugural Director, [Digital Society Institute](https://www.keele.ac.uk/digital-society-institute/), [Keele University](http://www.keele.ac.uk/) |
 | **Since Jan 2018** | Professor of Stellar Hydrodynamics & Nuclear Astrophysics, Keele University |
-| **Apr–Dec 2025** | Klaus Tschira Guest Professorship, Heidelberg Institute of Theoretical Studies (D) |
+| **Apr–Dec 2025** | Klaus Tschira Guest Professorship, [Heidelberg Institute of Theoretical Studies](https://www.h-its.org/) (D) |
 | **Sept 2018–Sept 2022** | Director of Research, School of Chemical & Physical Sciences, Keele University |
 | **Mar 2013–Dec 2017** | Reader in Astrophysics, Keele University |
 | **Nov 2010–Feb 2013** | Lecturer in Astrophysics, Keele University |
@@ -60,11 +60,11 @@ Born in Switzerland (CH)
 
 ## **PhD Supervision**
 
-- **2011–2018** — Research institute postgraduate committee member (Physics/Astrophysics)
 - **Lead Supervisor (since 2008):**  
   Hephzibah Akintunde (2025–2028), Kate Goodman (2024–2027), Emily Whitehead (2023–2026), Federico Rizzuti (2020–2023), Etienne Kaiser (2017–2021), Laura Scott (2016–2021), Jacqueline den Hartogh (2014–2017), Andrea Cristini (2013–2017), Samuel Jones (2010–2013), Michael Bennett (2008–2011)
-- **Since 2007:**  
+- **External Supervision (since 2007):**  
   Norhasliza binti Yusof (Keele/UM, Malaysia), Urs Frischknecht (Keele/Basel)
+- **2011–2018** — Research institute postgraduate committee member (Physics/Astrophysics)
 
 ---
 
@@ -110,8 +110,6 @@ IAU Working Group on Massive Stars (Division IV)
 
 ## **Funding ID**
 
-(All entries preserved exactly.)
-
 | Years | Details |
 |-------|---------|
 | **2024–2027** | PI, BRIDGCE STFC consortium grant: *123D Modelling of SN, NS and BH Progenitor Structures* (£400k) |
@@ -141,38 +139,45 @@ IAU Working Group on Massive Stars (Division IV)
 | **2016** | PRACE 2016143263: 13.3M core‑hours |
 | **2015** | DIRAC ACLP53: 9.7M core‑hours |
 
+
 ---
 
 ## **Service**
 
-(All entries preserved.)
+- **2025** — International Advisory & Programme Committee member, *Nuclei in the Cosmos XVIII*, Girona, Spain (16–20 June)  
+- **2024** — Scientific Advisory Board member, *Nuclear Physics in Astrophysics XI*, Dresden, Germany (15–20 Sept.)  
+- **2023–** — Member, DiRAC Cosma Memory Intensive Service Management Board (SMB), Durham University  
+- **2023/25** — STFC Astronomy grant panel member  
+- **2020–23/25** — Panel member, INCITE US supercomputing Astrophysics panel  
+- **2015–2018** — RAC member, Nuclear & Particle Physics panel of DiRAC  
 
-Includes advisory committees, SOC/LOC roles, grant panels, journal refereeing, observing proposal reviewing, and webmaster duties for the Massive Stars Working Group:  
-`http://www.astroscu.unam.mx/massive_stars/` [(astroscu.unam.mx in Bing)](https://www.bing.com/search?q="http%3A%2F%2Fwww.astroscu.unam.mx%2Fmassive_stars%2F")
+- **May 2015** — LOC member, *Nuclear Physics in Astrophysics VII*, York, UK  
+- **June 2014** — SOC member, IAU Symposium 307, *New windows on massive stars*, Geneva (CH)  
+- **June 2013** — SOC member, *Massive Stars: From Alpha to Omega*, Rhodes, Greece  
+
+- **Since 2013** — Referee for grant proposals in UK, France, Germany, Austria, Netherlands, Canada  
+- **March 2009** — Organiser & Editor, *39th Saas‑Fee Advanced Course: Magnetic Fields of Stars: from the Sun to Compact Objects*, Les Diablerets, CH  
+- **Since 2008** — Referee for peer‑reviewed journals (Astrophysical Journal, MNRAS, A&A, etc.)  
+- **Since 2008** — Referee for observing proposals (ESO panel D, Gemini Telescope) and grant proposals (STFC/UK, DFG/Germany)  
+
+- **2005–2015** — Webmaster + newsletter co‑editor, Working Group on Massive Stars  
+  - Website: 
+
+---
+
+If you want, I can integrate this into your full Markdown CV or format it in a more compact or more formal academic style..
 
 ---
 
 ## **Seminars at Institutions**
 
-Full list preserved exactly as provided (2004–2026), including Kyoto, Stockholm, MPA Munich, Heidelberg institutes, GSI, Cardiff, Malaya, Konkoly, Trieste, Flatiron Institute, Portsmouth, Leuven, Armagh, Geneva, KITP, Edinburgh, Los Alamos, York, Birmingham, Exeter, UCL/MSSL, Southampton, Cambridge, Darmstadt, Mainz, Mount Stromlo, Sheffield, Montpellier, Liverpool, Tokyo, Bonn, Belfast, Central Lancashire, Bologna, Paris‑Meudon, Utrecht, Basel.
+
 
 ---
 
 ## **Invited Talks & Lectures**
 
-Full table preserved, including:
 
-- IAU 402 Symposium (2025)  
-- EAS Annual Meeting keynote (2024)  
-- UNGA78 Science Summit panel (2023)  
-- Nuclei in the Cosmos (2023)  
-- IAU 361 Symposium (2022)  
-- CEMP Stars + Texas Symposium plenary (2019)  
-- TU Darmstadt lecture series (2018)  
-- IAU Symp 331, NPA8, Omeg2017 (2017)  
-- Caltech (2008)  
-- IAU Symposium 250 (2007)  
-- Potsdam workshop (2006)
 
 ---
 
@@ -190,7 +195,7 @@ Full table preserved, including:
 
 ## **Selected Key Publications**
 
-All entries preserved exactly, including MNRAS, A&A, Nature, ApJ, PRL, ApJS.
+
 
 ---
 
