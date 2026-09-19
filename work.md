@@ -79,9 +79,10 @@ https://github.com/raphael-hirschi/raphael-hirschi.github.io/tree/main/images/an
 
 # Publications
 
-**ORCID:** [0000‑0001‑8764‑6522](https://orcid.org/0000-0001-8764-6522)
+**[Google Scholar](https://scholar.google.com/citations?user=hw32Dg8AAAAJ&hl=en)**
+**[ORCID0000‑0001‑8764‑6522](https://orcid.org/0000-0001-8764-6522)**
 
-*Note: ORCID only used from 2018–2019. The ADS search result below is the best way to track my publications.*
+The ADS search result below is the best way to track my Astrophysics publications.*
 
 ## Articles
 
@@ -89,7 +90,7 @@ https://github.com/raphael-hirschi/raphael-hirschi.github.io/tree/main/images/an
 
 ## Thesis
 
-- *["Massive Rotating Stars: the Road to Supernova Explosion"](https://archive-ouverte.unige.ch/authors/view/30029)*
+- *["Massive Rotating Stars: the Road to Supernova Explosion"](https://archive-ouverte.unige.ch/unige:287)*
 
 ---
 
