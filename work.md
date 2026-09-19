@@ -33,7 +33,7 @@ My research focuses on various aspects related to stars and their evolution.
 
 # Video Recordings
 
-https://www.youtube.com/results?search_query=raphael+hirschi
+[https://www.youtube.com/results?search_query=raphael+hirschi](https://www.youtube.com/results?search_query=raphael+hirschi)
 
 ---
 
@@ -43,21 +43,12 @@ I have been teaching several modules at Keele:
 
 - **1st year:** Nature of Matter; Electricity and Magnetism  
 - **2nd year:** Nuclear and Particle Physics  
-- **3rd year:** Physics of Fluids  
+- **3rd year:** Physics of Fluids & Particle Physics and Accelerators
 
-I have also completed a post‑graduate diploma: *Teaching and Learning in Higher Education*.
+See full list in my CV.
 
-### Teaching Materials
+I have also completed a post‑graduate diploma: *Teaching and Learning in Higher Education*. Here is my [portfolio](https://github.com/raphael-hirschi/raphael-hirschi.github.io/blob/main/images/tlhep_rh_wo_appendix.pdf)
 
-- Reflective portfolio (without appendices):  
-  `[Link removed due to safety filtering]`
-- Reflective portfolio (with appendices):  
-  `[Link removed due to safety filtering]`
-
-### Outreach
-
-- Outreach talk:  
-  `[Link removed due to safety filtering]`
 
 ---
 
@@ -82,7 +73,7 @@ Email: r.hirschi_AT_keele.ac.uk
 # Animations
 
 Movies showing the evolution of stellar structure and chemical abundances can be found in the animation directory:  
-`[Link removed due to safety filtering]`
+https://github.com/raphael-hirschi/raphael-hirschi.github.io/tree/main/images/animations
 
 ---
 
